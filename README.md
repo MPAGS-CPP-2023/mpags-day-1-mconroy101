@@ -1,7 +1,7 @@
 # mpags-cipher
 A simple command line tool for encrypting/decrypting text using classical ciphers.
 
-So far, not much has been done...
+Common ciphers include Caeser cipher and many more.
 
 ## How to Install
 
