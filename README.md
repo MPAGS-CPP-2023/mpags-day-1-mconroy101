@@ -5,6 +5,7 @@ Common ciphers include Caeser cipher and many more. Also, this is all written in
 
 ## How to Install
 
+Press download.
 Placeholder
 
 ## Documentation
