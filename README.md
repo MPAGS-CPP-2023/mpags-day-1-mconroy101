@@ -10,7 +10,11 @@ Placeholder
 
 ## Documentation
 
+<<<<<<< HEAD
 Placeholder 2
+=======
+Placeholder 5
+>>>>>>> e58b4e3 (Changed Documentation)
 
 ## Authors
 
